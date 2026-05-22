@@ -47,9 +47,9 @@ The complete source code can be found within the subproject directory:
    git clone https://github.com/Marcus633/Recipes.git
    ```
 
-2. Navigate to the task application directory:
+2. Navigate to the repo:
  ```bash
-   cd Recipes/task
+   cd Recipes
  ```
 3. Execute the Spring Boot run task using the Gradle wrapper:
  ```bash
